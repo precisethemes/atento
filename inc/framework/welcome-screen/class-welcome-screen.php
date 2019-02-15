@@ -321,6 +321,13 @@ if ( ! class_exists( 'Atento_Welcome_Screen' ) ) :
                     </tr>
 
                     <tr>
+                        <td><?php esc_html_e( 'Custom Responsive Values', 'atento' ); ?>
+                            <br/><p class="description"><?php esc_html_e( 'Custom Responsive values for different screen size(Desktop, Tablet, Mobile).', 'atento' ); ?></p></td>
+                        <td class="redFeature"><span class="dashicons dashicons-no-alt dash-red"></span></td>
+                        <td class="greenFeature"><span class="dashicons dashicons-yes dash-green"></span></td>
+                    </tr>
+
+                    <tr>
                         <td><?php esc_html_e( 'Advanced Archive/Blog Settings', 'atento' ); ?></td>
                         <td class="redFeature"><span class="dashicons dashicons-no-alt dash-red"></span></td>
                         <td class="greenFeature"><span class="dashicons dashicons-yes dash-green"></span></td>

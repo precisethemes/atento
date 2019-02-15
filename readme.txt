@@ -4,7 +4,7 @@ Contributors: Precise Themes
 Tags: two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog
 Requires at least: 4.8
 Tested up to: 4.8
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,12 +75,14 @@ Description: Atento is a minimalist WordPress blog theme beautifully crafted to 
    Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 == Changelog ==
+Version 1.0.4 - 2019-02-15
+* Fixed getting started admin notice
 
 Version 1.0.3 - 2018-11-25
-* Added getting started page.
+* Added getting started page
 
 Version 1.0.2 - 2018-11-06
-* Standarised readme.txt, Updated hero image UX.
+* Standardised readme.txt, Updated hero image UX
 
 Version 1.0.1 - 2018-10-28
 * Updated CSS, PHP, Screenshot, readme.txt
