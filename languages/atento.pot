@@ -526,7 +526,7 @@ msgid "https://precisethemes.com/"
 msgstr ""
 
 #. URI of the theme
-msgid "https://precisethemes.com/go/atento/"
+msgid "https://precisethemes.com/wordpress-theme/atento/"
 msgstr ""
 
 #: inc/framework/customizer/panel/hero.php:84
